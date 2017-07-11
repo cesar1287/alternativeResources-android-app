@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alternative Resources</string>
+    <string name="button1">Button one</string>
+    <string name="button2">Button two</string>
+    <string name="button3">Button three</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="night">Night</string>
+</resources>
